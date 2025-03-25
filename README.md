@@ -1,4 +1,4 @@
-# Hi there, I'm Phi Hải Việt 👋
+# Hi there, I'm Phí Hải Việt 👋
 
 I'm a **Data Analyst** with a strong academic foundation in Business Data Analytics from International School – VNU. I’m passionate about turning data into actionable insights using tools like Python, SQL, Power BI, and data modeling. Currently, I’m seeking opportunities to contribute to impactful data projects and grow as a data professional.
 
