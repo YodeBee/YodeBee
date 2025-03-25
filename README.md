@@ -23,4 +23,4 @@ I'm a **Data Analyst** with a strong academic foundation in Business Data Analyt
 ## ⚡ Fun Fact
 - 🔍 I love exploring new datasets and turning them into stories—whether it’s analyzing e-commerce trends or predicting course enrollment patterns!
 
--🌱 On this GitHub, you'll find a collection of my projects and resources that showcase my skills and my love for data analysis. Let's turn data into knowledge together!
+- 🌱 On this GitHub, you'll find a collection of my projects and resources that showcase my skills and my love for data analysis. Let's turn data into knowledge together!
