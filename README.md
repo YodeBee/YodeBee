@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Phi Hải Việt 👋
 
-<!--
-**YodeBee/YodeBee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Analyst** with a strong academic foundation in Business Data Analytics from International School – VNU. I’m passionate about turning data into actionable insights using tools like Python, SQL, Power BI, and data modeling. Currently, I’m seeking opportunities to contribute to impactful data projects and grow as a data professional.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Languages & Tools**: Python (data processing, web scraping), SQL (querying, OLAP queries), Power BI (familiar), Excel/Google Sheets  
+- **Data Modeling**: Experienced in Star Schema, Fact and Dimension Tables, schema design  
+- **ETL & Data Warehousing**: Apache Airflow, Google BigQuery, Google Cloud Platform  
+- **Visualization**: Looker Studio, Power BI, Tableau (familiar)  
+- **Soft Skills**: Business acumen, problem-solving, teamwork, communication  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- Google Data Analytics Professional Certificate 
+- Google Business Intelligence Professional Certificate 
+- DataCamp Course 
+
+## 📫 Get in Touch
+- **Email**: [haiviet3828@gmail.com](mailto:haiviet3828@gmail.com)  
+
+## 📊 GitHub Stats
+![Phi Hải Việt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YodeBee&show_icons=true&theme=radical)
+
+## ⚡ Fun Fact
+I love exploring new datasets and turning them into stories—whether it’s analyzing e-commerce trends or predicting course enrollment patterns!
